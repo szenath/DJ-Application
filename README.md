@@ -2,7 +2,8 @@
 
 OtoDecks is a two-deck DJ application built in C++ using the JUCE framework. It allows a DJ to load, play, and mix audio tracks in real time, with a full suite of professional-grade features: per-deck three-band EQ, six real-time audio effects (Echo, Flanger, Reverb, Slicer, Crusher, Brake), eight hot cue buttons per deck, beat-synchronised looping, a persistent music library, master-mix recording, and animated turntable and waveform graphics. All user data persists between sessions via JSON files.
 
-![Screenshot placeholder](docs/screenshot.png)
+<img width="1200" height="712" alt="image" src="https://github.com/user-attachments/assets/bb20943e-84aa-48d0-9e8f-ce93ffe77305" />
+
 
 ## Source Code
 
